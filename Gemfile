@@ -45,7 +45,7 @@ group :development, :test do
   gem 'shoulda'
   gem 'rspec-rails', '~> 3.5'
   gem 'database_cleaner'
-  gem 'dm-transactions'
+  gem 'dm-transactions
 end
 
 group :development do
